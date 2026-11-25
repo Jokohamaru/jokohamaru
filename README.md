@@ -49,8 +49,6 @@ Hiện tại, mình đang tích cực tìm kiếm cơ hội **Thực tập sinh 
 
 ### Kết nối
 
-Nếu anh/chị đang tìm kiếm một **Thực tập sinh (Intern) mảng Cloud / Hạ tầng / DevOps** chăm chỉ, nắm chắc kiến thức nền tảng và sẵn sàng học hỏi nhanh để đồng hành cùng team, mình rất mong có cơ hội được trò chuyện thêm:
-
 - **LinkedIn:** [linkedin.com/in/kien-nguyen-0b9393298](https://www.linkedin.com/in/kien-nguyen-0b9393298/)
 - **Portfolio:** [james-portfolio-eta-five.vercel.app](https://james-portfolio-eta-five.vercel.app/)
 - **Blog:** [jokohamaru.github.io/james-blog](https://jokohamaru.github.io/james-blog/)
