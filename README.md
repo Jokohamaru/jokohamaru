@@ -1,7 +1,7 @@
 # Nguyễn Xuân Kiên (James)
 
 **Cloud / DevOps Engineer Intern** · Hà Nội, Việt Nam  
-[Portfolio](https://james-portfolio-eta-five.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/kien-nguyen-0b9393298/) · [Credly](https://www.credly.com/users/nguyen-kien.cloud)
+[Portfolio](https://james-portfolio-eta-five.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/kien-nguyen-0b9393298/) · [Credly](https://www.credly.com/users/nguyen-kien.cloud) · [Blog](https://jokohamaru.github.io/james-blog/)
 
 ---
 
