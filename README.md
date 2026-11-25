@@ -53,4 +53,5 @@ Nếu anh/chị đang tìm kiếm một **Thực tập sinh (Intern) mảng Clou
 
 - **LinkedIn:** [linkedin.com/in/kien-nguyen-0b9393298](https://www.linkedin.com/in/kien-nguyen-0b9393298/)
 - **Portfolio:** [james-portfolio-eta-five.vercel.app](https://james-portfolio-eta-five.vercel.app/)
+- **Blog:** [jokohamaru.github.io/james-blog](https://jokohamaru.github.io/james-blog/)
 - **Hồ sơ chứng chỉ AWS:** [credly.com/users/nguyen-kien.cloud](https://www.credly.com/users/nguyen-kien.cloud)
